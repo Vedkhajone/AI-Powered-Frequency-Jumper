@@ -18,7 +18,6 @@ An intelligent Wi-Fi optimizer using Machine Learning and ESP32 that predicts th
 - `data/` – Sample Wi-Fi RSSI data (CSV)
 - `model/` – Trained ML model (.pkl)
 - `esp32_code/` – Code to run on ESP32 to switch frequency
-- `scripts/` – Python scripts for scanning, training, predicting
 
 ## ⚙️ How to Run
 
