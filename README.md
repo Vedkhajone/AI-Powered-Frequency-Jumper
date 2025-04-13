@@ -19,8 +19,16 @@ An intelligent Wi-Fi optimizer using Machine Learning and ESP32 that predicts th
 - `model/` – Trained ML model (.pkl)
 - `esp32_code/` – Code to run on ESP32 to switch frequency
 
+
 ## ⚙️ How to Run
 
+1. **Run Main.py**
+   To run the entire process in one go (data collection → model training → prediction → ESP32 communication):
+   ```bash
+   python main.py
+
+## OR
+   
 1. **Train Model**
    ```bash
    python train_model.py
