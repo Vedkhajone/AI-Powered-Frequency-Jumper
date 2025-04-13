@@ -38,5 +38,5 @@ An intelligent Wi-Fi optimizer using Machine Learning and ESP32 that predicts th
    ```bash
    pip install -r requirements.txt
    
-#**DEVELOPER**
-   ##**Vedhanshu Khajone**
+# **DEVELOPER**
+   ## **Vedhanshu Khajone**
