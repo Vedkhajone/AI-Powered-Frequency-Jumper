@@ -24,11 +24,11 @@ An intelligent Wi-Fi optimizer using Machine Learning and ESP32 that predicts th
 
 1. **Train Model**
    ```bash
-   python scripts/train_model.py
+   python train_model.py
    
 2. **Start Prediction & Communication**
    ```bash
-   python scripts/predict_and_send.py
+   python predict_and_send.py
    
 3.**Upload ESP32 Code**
    -Use Arduino IDE or PlatformIO
