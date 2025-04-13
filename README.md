@@ -25,13 +25,18 @@ An intelligent Wi-Fi optimizer using Machine Learning and ESP32 that predicts th
 1. **Train Model**
    ```bash
    python scripts/train_model.py
+   
 2. **Start Prediction & Communication**
    ```bash
    python scripts/predict_and_send.py
+   
 3.**Upload ESP32 Code**
    -Use Arduino IDE or PlatformIO
    -Flash esp32_code/jumper.ino
-4.**Install Requirements**
+
+4. **Install Requirements(imp)**
    ```bash
    pip install -r requirements.txt
-
+   
+#**DEVELOPER**
+   ##**Vedhanshu Khajone**
